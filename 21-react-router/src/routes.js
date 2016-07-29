@@ -7,7 +7,7 @@ import About from './components/About';
 import Account from './components/Account';
 
 export default (
-  <Route path="/" component={App} >
+  <Route path="/digicity/" component={App} >
     <Route path="/home" component={Home} />
     <Route path="/about" component={About} />
     <Route path="/account" component={Account} />
