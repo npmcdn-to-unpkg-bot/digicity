@@ -26760,7 +26760,7 @@
 	  _reactRouter.Route,
 	  { path: '/digicity/', component: _App2.default },
 	  _react2.default.createElement(_reactRouter.Route, { path: '/digicity/home', component: _Home2.default }),
-	  _react2.default.createElement(_reactRouter.Route, { path: '/digicity/about', component: _About2.default }),
+	  _react2.default.createElement(_reactRouter.Route, { path: 'about', component: _About2.default }),
 	  _react2.default.createElement(_reactRouter.Route, { path: '/digicity/account', component: _Account2.default }),
 	  _react2.default.createElement(_reactRouter.IndexRoute, { component: _Home2.default })
 	);
