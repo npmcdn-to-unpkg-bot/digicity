@@ -6,9 +6,9 @@ class App extends Component {
     return (
       <div>
         <ul>
-          <li><Link to="/">Home</Link></li>
-          <li><Link to="/about">About</Link></li>
-          <li><Link to="/account">Account</Link></li>
+          <li><Link to="/digicity/home">Home</Link></li>
+          <li><Link to="/digicity/about">About</Link></li>
+          <li><Link to="/digicity/account">Account</Link></li>
         </ul>
         {this.props.children}
         <div>My Footer</div>
