@@ -8,9 +8,9 @@ import Account from './components/Account';
 
 export default (
   <Route path="/digicity/" component={App} >
-    <Route path="/home" component={Home} />
-    <Route path="/about" component={About} />
-    <Route path="/account" component={Account} />
+    <Route path="/digicity/home" component={Home} />
+    <Route path="/digicity/about" component={About} />
+    <Route path="/digicity/account" component={Account} />
     <IndexRoute component={Home} />
   </Route>
 );
