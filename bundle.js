@@ -26814,7 +26814,7 @@
 	            null,
 	            _react2.default.createElement(
 	              _reactRouter.Link,
-	              { to: '/' },
+	              { to: '/digicity/home' },
 	              'Home'
 	            )
 	          ),
@@ -26823,7 +26823,7 @@
 	            null,
 	            _react2.default.createElement(
 	              _reactRouter.Link,
-	              { to: '/about' },
+	              { to: '/digicity/about' },
 	              'About'
 	            )
 	          ),
@@ -26832,7 +26832,7 @@
 	            null,
 	            _react2.default.createElement(
 	              _reactRouter.Link,
-	              { to: '/account' },
+	              { to: '/digicity/account' },
 	              'Account'
 	            )
 	          )
