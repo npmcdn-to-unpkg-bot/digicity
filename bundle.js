@@ -26758,7 +26758,7 @@
 
 	exports.default = _react2.default.createElement(
 	  _reactRouter.Route,
-	  { path: '/', component: _App2.default },
+	  { path: '/digicity/', component: _App2.default },
 	  _react2.default.createElement(_reactRouter.Route, { path: '/home', component: _Home2.default }),
 	  _react2.default.createElement(_reactRouter.Route, { path: '/about', component: _About2.default }),
 	  _react2.default.createElement(_reactRouter.Route, { path: '/account', component: _Account2.default }),
