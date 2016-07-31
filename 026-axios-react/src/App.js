@@ -8,7 +8,6 @@ import isEmpty from 'lodash/isEmpty';
 import UserInfo from './UserInfo';
 
 
-
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
 // Needed for onTouchTap
@@ -20,7 +19,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      user: {},
+      avatarUrl: "https://avatars1.githubusercontent.com/u/72467?v=3&s=460" 
     };
   }
   getChildContext() {
