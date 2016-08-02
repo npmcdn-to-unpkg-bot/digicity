@@ -8,10 +8,8 @@ class UserInfo extends Component {
       resString: "resString"
     };
   }
-  _handleSubmit(e) {
-    e.preventDefault();
-
-    axios.get('https://api.github.com/users/zhaozhuoboy')
+  componentDidMount() {
+    axios.get('https://api.github.com/users/happypeter')
          .then((res) => {
             this.setState({resString: res.data.avatar_url});
             console.log(res);
@@ -20,9 +18,7 @@ class UserInfo extends Component {
   render() {
     return (
       <div>
-        <form onSubmit={this._handleSubmit.bind(this)}>
-          <button type="submit">submit</button>
-        </form>
+        <h1> My Github Info</h1>
         <img src={this.state.resString} />
       </div>
     );
