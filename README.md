@@ -98,3 +98,7 @@
 - HTTP request + HTTP response
 - request = verb + url + data
             get  + baidu.com   
+
+# 8.2 morning: Deploy Big Demo to Github Pages
+
+- https://github.com/happypeter/react-transform-boilerplate/
