@@ -104,6 +104,10 @@
 - https://github.com/happypeter/react-transform-boilerplate/
 - [Github Pages](http://haoqicat.com/gitbeijing/6-2-pages)
 
-# 8.4 morning:
+# 8.4 morning: API Call
 
 - http://www.hackingwithreact.com/
+
+# 8.4 afternoon: Deploy Big Demo
+
+- [Newming Routing Code](https://github.com/newming/haoduoshipin/blob/master/src/index.js)
