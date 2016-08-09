@@ -111,3 +111,19 @@
 # 8.4 afternoon: Deploy Big Demo
 
 - [Newming Routing Code](https://github.com/newming/haoduoshipin/blob/master/src/index.js)
+
+# 8.6 morning: Deploy React Router
+
+- use hash history
+
+# 8.6 afternoon: Ajax markdown blog
+
+
+# 8.7 morning: params from react router
+
+
+# 8.9 morning: Data Visulization
+
+
+- D3.js
+- http://echarts.baidu.com/
