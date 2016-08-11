@@ -127,3 +127,10 @@
 
 - D3.js
 - http://echarts.baidu.com/
+
+# 8.11 morning: CDN
+
+- CDN: Content Distribution Network
+- http://www.qiniu.com/
+- deploy big-demo to happypeter.github.io
+- pretty URL: https://github.com/rafrex/spa-github-pages
