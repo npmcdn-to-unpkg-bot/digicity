@@ -133,4 +133,9 @@
 - CDN: Content Distribution Network
 - http://www.qiniu.com/
 - deploy big-demo to happypeter.github.io
+
+
+# 8.11 afternoon: SPA Github Pages
+
+- the last lesson
 - pretty URL: https://github.com/rafrex/spa-github-pages
