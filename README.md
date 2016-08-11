@@ -139,3 +139,8 @@
 
 - the last lesson
 - pretty URL: https://github.com/rafrex/spa-github-pages
+
+
+- [Steve Jobs Commencement Speech at Standford](http://v.youku.com/v_show/id_XNDg2OTY0MTY0.html?from=s1.8-1-1.2)
+
+- [haoqicat.com to learn more](http://haoqicat.com/)
